@@ -4,4 +4,4 @@
 
 ## 正文目录
 
-- [LP901 正文](https://neruthes.github.io/LP901/?read=1)
+- [LP901 正文](https://neruthes.github.io/LP901/?read=0)
